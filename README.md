@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi It's Jimin 👋
 
 <!--
 **J1miin/J1miin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
