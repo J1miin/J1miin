@@ -79,7 +79,6 @@ Here are some ideas to get you started:
 
 **Dongguk University, Seoul, Korea**  
 Bachelor of Computer Science Engineering (2022–Present)  
-GPA: 4.31/4.5 (Major: 4.4/4.5)  
 Dean’s List (All semesters through Junior year)
 
 ---
